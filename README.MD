@@ -1,5 +1,7 @@
 # A fullstack responsive AI image generation MERN App called Don Image similar to Mid-Journey built using Dall-E
 
+## Live URL: https://ai-image-generation-mern-app.vercel.app/
+
 ## The app is built using:
 1. HTML, CSS, JS, React
 2. ExpressJS (Backend framework)
